@@ -8,7 +8,7 @@ public class holaMundo {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-     System.out.println("hola Primerosss");
+     System.out.println("hola original");
      int numero1 =0;
      int numero2 =22;
      int resultado =0;

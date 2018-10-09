@@ -1,0 +1,38 @@
+0    [main] INFO  org.apache.log4j.chainsaw.Main  - Iniciando proceso Principal
+3    [main] INFO  viera.demo  - Archivo de parametros
+3    [main] INFO  viera.demo  - configuracion.properties
+363  [main] INFO  viera.demo  - Conexion correcta a BD
+0    [main] INFO  org.apache.log4j.chainsaw.Main  - Iniciando proceso Principal
+1049 [main] INFO  org.apache.log4j.chainsaw.Main  - <html><head><title>www.viera.cl</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="author" content="Christian Viera A."><script type="text/javascript">    window.smartlook||(function(d) {    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';    c.charset='utf-8';c.src='//rec.getsmartlook.com/recorder.js';h.appendChild(c);    })(document);    smartlook('init', '4751a96b2f98395ec2ec13e317d80c671a9ead8e');</script></head><body bgcolor="#EFEFCE"><center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,79,0"  id="main" width="800" height="213">  <param name="movie" value="main.swf">  <param name="bgcolor" value="#EFEFCE">  <param name="quality" value="high">  <param name="allowscriptaccess" value="samedomain">  <embed type="application/x-shockwave-flash"   pluginspage="http://www.macromedia.com/go/getflashplayer"   width="800" height="213"   name="main" src="main.swf"   bgcolor="#EFEFCE" quality="high"   swLiveConnect="true" allowScriptAccess="samedomain"  ></embed></object></center><a href="http://www.viera.cl/amarillas/" title="http://www.viera.cl/amarillas/" accesskey="A" target="_blank"><font color="#EFEFCE" face="Arial, Helvetica, sans-serif">http://www.viera.cl/amarillas/</font></a></body></html><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-3131130-1";urchinTracker();</script><script type="text/javascript">var pageTracker = _gat._getTracker("UA-3131130-1");pageTracker._setCustomVar(1,"Home prueba","Si Test",1);pageTracker._trackPageview();</script>
+1051 [main] INFO  viera.demo  - Archivo de parametros
+1051 [main] INFO  viera.demo  - configuracion.properties
+1344 [main] INFO  viera.demo  - Conexion correcta a BD
+0    [main] INFO  org.apache.log4j.chainsaw.Main  - Iniciando proceso Principal
+492  [main] INFO  org.apache.log4j.chainsaw.Main  - <html><head><title>www.viera.cl</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta name="author" content="Christian Viera A."><script type="text/javascript">    window.smartlook||(function(d) {    var o=smartlook=function(){ o.api.push(arguments)},h=d.getElementsByTagName('head')[0];    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';    c.charset='utf-8';c.src='//rec.getsmartlook.com/recorder.js';h.appendChild(c);    })(document);    smartlook('init', '4751a96b2f98395ec2ec13e317d80c671a9ead8e');</script></head><body bgcolor="#EFEFCE"><center><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,79,0"  id="main" width="800" height="213">  <param name="movie" value="main.swf">  <param name="bgcolor" value="#EFEFCE">  <param name="quality" value="high">  <param name="allowscriptaccess" value="samedomain">  <embed type="application/x-shockwave-flash"   pluginspage="http://www.macromedia.com/go/getflashplayer"   width="800" height="213"   name="main" src="main.swf"   bgcolor="#EFEFCE" quality="high"   swLiveConnect="true" allowScriptAccess="samedomain"  ></embed></object></center><a href="http://www.viera.cl/amarillas/" title="http://www.viera.cl/amarillas/" accesskey="A" target="_blank"><font color="#EFEFCE" face="Arial, Helvetica, sans-serif">http://www.viera.cl/amarillas/</font></a></body></html><script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">_uacct = "UA-3131130-1";urchinTracker();</script><script type="text/javascript">var pageTracker = _gat._getTracker("UA-3131130-1");pageTracker._setCustomVar(1,"Home prueba","Si Test",1);pageTracker._trackPageview();</script>
+494  [main] INFO  viera.demo  - Archivo de parametros
+495  [main] INFO  viera.demo  - configuracion.properties
+790  [main] INFO  viera.demo  - Conexion correcta a BD
+0    [main] INFO  org.apache.log4j.chainsaw.Main  - Iniciando proceso Principal
+0    [main] INFO  org.apache.log4j.chainsaw.Main  - Iniciando proceso Principal
+28943 [main] INFO  org.apache.log4j.chainsaw.Main  - <font size=1 face=Verdana,Arial color=white>Col1=hello ... Col2=there == Col1=hello111 ... Col2=there111 == Col1=hello222 ... Col2=there222 == Col1=hello333 ... Col2=there333 == Col1=hello444 ... Col2=there444 == done...</font><font size=2 face=Verdana,Arial><br><b>Error #1500</b><br><br>The page you requested is temporarily unavailable.  Please try again.<br><br>If you are the owner of the site and you feel you are seeing this page in error, <br>email <a href='mailto:Support@Brinkster.com'>Support@Brinkster.com</a>.<br><font size=1 face=Verdana,Arial color=white>67043.56</font>
+28947 [main] INFO  viera.demo  - Archivo de parametros
+28947 [main] INFO  viera.demo  - configuracion.properties
+29165 [main] ERROR viera.demo  - Error al realizar conexion con BD: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+29166 [main] ERROR org.apache.log4j.chainsaw.Main  - Errornull
+48787 [main] INFO  org.apache.log4j.chainsaw.Main  - <font size=1 face=Verdana,Arial color=white>Col1=hello ... Col2=there == Col1=hello111 ... Col2=there111 == Col1=hello222 ... Col2=there222 == Col1=hello333 ... Col2=there333 == Col1=hello444 ... Col2=there444 == done...</font><font size=2 face=Verdana,Arial><br><b>Error #1500</b><br><br>The page you requested is temporarily unavailable.  Please try again.<br><br>If you are the owner of the site and you feel you are seeing this page in error, <br>email <a href='mailto:Support@Brinkster.com'>Support@Brinkster.com</a>.<br><font size=1 face=Verdana,Arial color=white>67046.06</font>
+48788 [main] INFO  viera.demo  - Archivo de parametros
+48788 [main] INFO  viera.demo  - configuracion.properties
+48971 [main] ERROR viera.demo  - Error al realizar conexion con BD: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+48972 [main] ERROR org.apache.log4j.chainsaw.Main  - Errornull
+0    [main] INFO  org.apache.log4j.chainsaw.Main  - Iniciando proceso Principal
+1690 [main] INFO  org.apache.log4j.chainsaw.Main  - <header>  <div class="title">    <h1>http://www.viera.cl</h1>  </div></header><style>body {  font-family: 'Source Sans Pro', sans-serif;}header {  background:     linear-gradient(      rgba(0, 0, 0, 0.2),      rgba(0, 0, 0, 0.2)    ),    url(viera.jpg);  background-size: cover;  height: 100vh;}.title {  position: absolute;  top: 10%;  left: 50%;  transform: translate(-50%, -50%);  color: white;  text-align: center;}h1 {   font-style: normal;  margin: 0;  font-size: 2rem;  white-space: nowrap;}h2 {  font-size: 2rem;}p {  margin: 0;  font-size: 1.3rem;}main {  max-width: 500px;  margin: 20px auto;}</style><main></main>
+1692 [main] INFO  viera.demo  - Archivo de parametros
+1692 [main] INFO  viera.demo  - configuracion.properties
+1851 [main] ERROR viera.demo  - Error al realizar conexion con BD: Communications link failure
+
+Last packet sent to the server was 0 ms ago.
+1853 [main] ERROR org.apache.log4j.chainsaw.Main  - Errornull
